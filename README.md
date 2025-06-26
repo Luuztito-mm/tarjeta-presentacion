@@ -20,8 +20,10 @@ Crear una pequeña tarjeta de presentación que incluya:
   - Bordes redondeados
   - Efectos `:hover`
 
-## 🚀 Publicado en GitHub Pages
+## 📎 Enlaces
 
-🔗 [Ver tarjeta online](https://luuztito-mm.github.io/tarjeta-presentacion/)
+- 🔗 **Repositorio en GitHub:**  
+  [https://github.com/Luuztito-mm/tarjeta-presentacion](https://github.com/Luuztito-mm/tarjeta-presentacion)
 
----
+- 🌐 **Ver online en GitHub Pages:**  
+  [https://luuztito-mm.github.io/tarjeta-presentacion/](https://luuztito-mm.github.io/tarjeta-presentacion/)
