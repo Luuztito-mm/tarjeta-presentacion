@@ -1,0 +1,42 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffeeee;
+  color: #333;
+  text-align: center;
+  margin: 0;
+  padding: 30px;
+}
+
+h1 {
+  color: #b30059;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+}
+
+.menu li {
+  margin-bottom: 40px;
+  padding: 20px;
+  border: 1px solid #ffb3c6;
+  border-radius: 10px;
+  background-color: #fff0f5;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.menu li img {
+  width: 250px;
+  height: auto;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.precio {
+  font-weight: bold;
+  color: #cc0066;
+  margin-top: 5px;
+}
